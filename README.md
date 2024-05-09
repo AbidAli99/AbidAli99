@@ -2,7 +2,7 @@
 
 - 🔭 I am currently working on Image Segmentation,Hyperspectral Image Processing
 - 🌱 I’m currently learning Deep Learning technique implementations in Computer Vision Tasks
-- 👯 I’m looking to collaborate on any ML research(HPC, Vision, Pr)
+- 👯 I’m looking to collaborate on any ML research(HPC, Vision)
 - 💬 Ask me about anything, I am super interested to Network
 - 📫 How to reach me: abiduu354@gmail.com
 -->
